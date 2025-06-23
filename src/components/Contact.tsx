@@ -115,7 +115,7 @@ const Contact: React.FC = () => {
                 Call Now
               </a>
               <a
-                href="https://wa.me/911234567890"
+                href="https://wa.me/919415269258"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-lg font-semibold transition-colors duration-200"
